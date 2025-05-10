@@ -67,6 +67,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Include meta files for package assets
+!*.meta
+
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
