@@ -1,6 +1,6 @@
-# GrimTools Object Pool
+# GrimTools Utilities
 
-A Unity object pooling system using `UnityEngine.Pool` for efficient GameObject management.
+A Unity Utilities package offers an object pooling system using `UnityEngine.Pool` for efficient GameObject management.
 
 ## Installation
 
