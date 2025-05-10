@@ -1,0 +1,18 @@
+{
+	"name": "GrimTools.Runtime",
+	"references": [],
+	"includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.collections",
+            "expression": "2021.2.0",
+            "define": "UNITY_POOL_AVAILABLE"
+        }
+    ]
+}

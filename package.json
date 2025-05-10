@@ -1,0 +1,21 @@
+{
+    "name": "com.grimtools.utilities",
+    "version": "1.0.0",
+    "displayName": "GrimTools Utilities",
+    "description": "A collection of Unity utilities for easier prototyping.",
+    "unity": "2021.2",
+    "keywords": [
+        "grimtools",
+        "object pool",
+        "utilities"
+    ],
+    "author": {
+        "name": "Suvrangshu Barua",
+        "email": "suvrangshu.turno@gmail.com",
+        "url": "https://github.com/SuvrangshuBarua"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "com.unity.collections": "1.0.0"
+    }
+}
