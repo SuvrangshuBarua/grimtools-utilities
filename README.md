@@ -8,7 +8,7 @@ Add the package via Unity Package Manager:
 
 1. Open Window > Package Manager.
 2. Click the "+" button and select "Add package from git URL".
-3. Enter: `https://github.com/SuvrangshuBarua/grimtools-utilities.git#v1.0.0`
+3. Enter: `https://github.com/SuvrangshuBarua/grimtools-utilities.git#v1.0.1`
 
 ## Usage
 
