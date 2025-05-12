@@ -1,0 +1,16 @@
+{
+    "name": "GrimTools.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5382109e1fe74af498e845089e5d08bb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
