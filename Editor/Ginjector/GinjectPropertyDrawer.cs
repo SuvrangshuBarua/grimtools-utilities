@@ -13,10 +13,10 @@ namespace GrimTools.Editor
         {
             if (icon == null)
             {
-                icon = (Texture2D)AssetDatabase.LoadAssetAtPath("Assets/GrimTools/Editor/Ginjector/Icon.png", typeof(Texture2D));
+                icon = (Texture2D)AssetDatabase.LoadAssetAtPath("Packages/com.grimtools.utilities/Editor/Ginjector/Icon.png", typeof(Texture2D));
                 if (icon == null)
                 {
-                    Debug.LogError("Failed to load icon at path: Assets/GrimTools/Editor/Ginjector/icon.png");
+                    Debug.LogError("Failed to load icon at path: Packages/com.grimtools.utilities/Editor/Ginjector/Icon.png");
                 }
             }
             return icon;
