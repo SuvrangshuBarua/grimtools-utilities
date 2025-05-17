@@ -20,7 +20,7 @@ namespace GrimTools.Runtime.Core
 #if UNITY_6000
                     _instance = FindAnyObjectByType<T>();
 #else
-                    instance = FindObjectOfType<T>();
+                    _instance = FindObjectOfType<T>();
 #endif
                     if (_instance == null)
                     {
