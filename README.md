@@ -10,7 +10,7 @@ Add the package via Unity Package Manager:
 2. Click the "+" button and select "Add package from git URL".
 3. Enter: `https://github.com/SuvrangshuBarua/grimtools-utilities.git#v1.0.1`
 
-## Usage
+## Object Pool Usage
 
 ```csharp
 using GrimTools.Runtime;
@@ -22,3 +22,4 @@ GameObject obj = ObjectPool.Instance.GetObject(prefab);
 // Return it
 obj.GetComponent<PoolObject>().ReturnToPool();
 // Or: ObjectPool.Instance.ReturnToPool(obj);
+
