@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using UnityEngine;
 using UnityEditor;
 using GrimTools.Runtime;
@@ -26,4 +27,4 @@ namespace GrimTools.Editor
         }
     }
 }
-
+#endif
