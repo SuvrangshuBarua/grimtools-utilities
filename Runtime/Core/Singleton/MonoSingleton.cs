@@ -90,9 +90,9 @@ namespace GrimTools.Runtime.Core
             this._initializationStatus = SingletonInitializationStatus.Initialized;
             OnInitialized();
         }
-        public void DestroySingleton()
+        public virtual void DestroySingleton()
         {
-            throw new System.NotImplementedException();
+            
         }
         public static void CreateInstance()
         {
